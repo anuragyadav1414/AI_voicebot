@@ -1,5 +1,7 @@
 .venv
-
+main.py
+test.py
+test2.py
 # dependencies
 /node_modules
 /.pnp
